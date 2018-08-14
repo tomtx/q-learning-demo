@@ -3,7 +3,7 @@ this is a demo of Q-Learning for the introduction story about Reinforcement Lear
 
 
 # requirements
-MXNet
-numpy
-gym
-scipy
+* MXNet
+* numpy
+* gym
+* scipy
