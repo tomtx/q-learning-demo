@@ -2,7 +2,7 @@
 > A demo of Q-learning for the introduction story about Reinforcement Learning
 
 ## Instructions
-Run included Jupyter Notebooks from your Python environmnet by typing the following command in your command-line interface.
+Run the included Jupyter Notebooks from your Python environmnet by typing the following command in your command-line interface.
 ```
 jupyter notebook
 ```
