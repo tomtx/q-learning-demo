@@ -2,10 +2,14 @@
 > A demo of Q-learning for the introduction story about Reinforcement Learning
 
 ## Instructions
-Run the included Jupyter Notebooks from your Python environmnet by typing the following command in your command-line interface.
+1. download this repository
+2. activate your Python environmnet, e.g. get into your Python environmnet from your command-line interface
+3. start the Jupyter Notebook interface by typing the following command
 ```
 jupyter notebook
 ```
+4. navigate to the downloaded repository
+5. open the included notebooks (ipynb files) 
 
 ## Requirements
 Install the following packages for your Python environment.
