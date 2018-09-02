@@ -1,6 +1,6 @@
 # Q-Learning Demo
 ![picture](img/wall-e.jpeg)
-> This is a demo of Q-learning algorithm for the [introduction story about Reinforcement Learning on Medium](https://www.google.com). The algorithm is implemented here via tabular and approximate solutions, **table** and **neural net** (ANN) solutions respectively. The code for it is written in **Python** as the _prototyping environment_ with **MXNet** as the _machine learning framework_ and **OpenAI Gym** as the _model environment for reinforcement learning_.
+> This is a demo of Q-learning algorithm for the [introduction story about Reinforcement Learning on Medium](https://medium.com). The algorithm is implemented here via tabular and approximate solutions, **table** and **neural net** (ANN) solutions respectively. The code for it is written in **Python** as the _prototyping environment_ with **MXNet** as the _machine learning framework_ and **OpenAI Gym** as the _model environment for reinforcement learning_.
 
 ## Instructions
 Follow these steps to run the demo:
