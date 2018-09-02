@@ -1,6 +1,9 @@
 # Q-Learning Demo
 > A demo of Q-learning for the introduction story about Reinforcement Learning
 
+![picture](/img/wall-e.jpeg)
+
+
 ## Instructions
 Follow these steps to run the demo:
 1. download this repository,
