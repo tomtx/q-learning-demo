@@ -1,6 +1,5 @@
-![picture](img/wall-e.jpeg)
-
 # Q-Learning Demo
+![picture](img/wall-e.jpeg)
 > A demo of Q-learning for the [introduction story about Reinforcement Learning on Medium MXNet blog](https://www.google.com). This algorithm is implemented via tabular (table) and approximate solutions, table and ANN solutions respectively. 
 The code for it is written in **Python** as the prototyping environment with **MXNet** as the Machine Learning framework.
 
