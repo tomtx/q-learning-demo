@@ -4,7 +4,7 @@
 ## Instructions
 Follow these steps to run the demo:
 1. download this repository,
-2. activate your Python environmnet, e.g. get into your Python environmnet from your command-line interface,
+2. activate your Python environment, e.g. get into your virtual environment from your command-line interface,
 3. start the Jupyter Notebook interface by typing the following command,
 ```
 jupyter notebook
@@ -13,8 +13,8 @@ jupyter notebook
 5. and open the included notebooks (_ipynb_ files).
 
 ## Requirements
-Install the following packages for your Python environment.
-* Python 3.6+
+Install the following packages for your Python 3.6+ environment.
 * MXNet 1.2+
 * OpenAI Gym 0.10+
 * Jupyter Notebook 1+
+* Matplotlib 2.2+
