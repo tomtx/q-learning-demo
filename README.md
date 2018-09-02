@@ -1,8 +1,6 @@
 # Q-Learning Demo
-> A demo of Q-learning for the [introduction story about Reinforcement Learning on Medium MXNet blog](https://www.google.com)
-
 ![picture](img/wall-e.jpeg)
-
+> A demo of Q-learning for the [introduction story about Reinforcement Learning on Medium MXNet blog](https://www.google.com)
 
 ## Instructions
 Follow these steps to run the demo:
