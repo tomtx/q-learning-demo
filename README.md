@@ -15,7 +15,7 @@ jupyter notebook
 
 ## Requirements
 Install the following packages for your Python 3.6+ environment.
-* MXNet 1.2+
-* OpenAI Gym 0.10+
 * Jupyter Notebook 1+
 * Matplotlib 2.2+
+* MXNet 1.2+
+* OpenAI Gym 0.10+
